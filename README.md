@@ -1,4 +1,5 @@
 # <a id=TitleHead> Итоговая контрольная работа по основному блоку </a>
+### <b>Выполнил: Морев Анатолий</b>
 ## <b>Оглавление:
 ### 1. [Условия задачи](#Title1)
 ### 2. [Выполнение и комментарии](#Title2)
@@ -23,9 +24,9 @@
 ## <a id=Title2> Выполнение и комментарии </a>
 
 1. Ссылка на репозиторий на [Github](https://github.com/PendolFF/TWork.git) 
-2. Ссылка на диаграмму в [drawio](https://github.com/PendolFF/TWork/blob/main/block%20diagram.drawio)
+2. Ссылка на блок-схему в [drawio](https://github.com/PendolFF/TWork/blob/main/block%20diagram.drawio). Блок-схемой метода отбора строк <= 3 и формирования нового массива строк
 3. Ссылка на файл [README.md](https://github.com/PendolFF/TWork/blob/main/README.md)
 4. Ссылка на [код программы на C#](https://github.com/PendolFF/TWork/blob/main/Program.cs)
-5. В проекте присутствует [7 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
+5. В проекте присутствует [10 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
 
 [К началу](#TitleHead)
