@@ -26,6 +26,6 @@
 2. Ссылка на диаграмму в [drawio](https://github.com/PendolFF/TWork/blob/main/block%20diagram.drawio)
 3. Ссылка на файл [README.md](https://github.com/PendolFF/TWork/blob/main/README.md)
 4. Ссылка на [код программы на C#](https://github.com/PendolFF/TWork/blob/main/Program.cs)
-5. В проекте присутствует [7 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
+5. В проекте присутствует [8 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
 
 [К началу](#TitleHead)
