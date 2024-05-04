@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите элементы массивов через запятую:");
+﻿Console.WriteLine("Введите строки для массива через запятую:");
 // Считывается введенная строка с консоли и разбивается на массив строк по запятой
 string[] initialArray = Console.ReadLine().Split(',');
 
@@ -9,7 +9,7 @@ string[] newArray = FilterArrayByLength(initialArray, 3);
 Console.WriteLine("Новый массив строк с длиной меньше или равной 3 символам:");
 foreach (string str in newArray)
 {
-    Console.Write($"'{str}'" + " ");
+   Console.Write(string.Join(", ", str + " "));
 }
 
 string[] FilterArrayByLength(string[] array, int maxLength)
@@ -31,7 +31,7 @@ string[] FilterArrayByLength(string[] array, int maxLength)
     {
         if (str.Length <= maxLength)
         {
-            result[i] = str;
+            result[i] = $"\"{str}\"";
             i++;
         }
     }

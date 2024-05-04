@@ -24,9 +24,19 @@
 ## <a id=Title2> Выполнение и комментарии </a>
 
 1. Ссылка на репозиторий на [Github](https://github.com/PendolFF/TWork.git) 
-2. Ссылка на блок-схему в [drawio](https://github.com/PendolFF/TWork/blob/main/block%20diagram.drawio). Блок-схемой метода отбора строк <= 3 и формирования нового массива строк
-3. Ссылка на файл [README.md](https://github.com/PendolFF/TWork/blob/main/README.md)
-4. Ссылка на [код программы на C#](https://github.com/PendolFF/TWork/blob/main/Program.cs)
-5. В проекте присутствует [10 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
+2. Блок- схема метода отбора строк <= 3 и формирования нового массива строк.![Блок-схема>](/block_diagramm.png) 
+3. Файл [README.md](https://github.com/PendolFF/TWork/blob/main/README.md) написан используя некоторые возможности языка Markdown.
+4. [Код программы на C#](https://github.com/PendolFF/TWork/blob/main/Program.cs) принимает на входе массивы строк разделенные запятой. На выходе выдает массив строк <= 3 символов каждый из которых заключен в кавычки.  
+
+    Пример ввода и вывода:
+   ```cmd
+   Введите строки для массива через запятую:
+   new,n_M,new york,12,1234
+   Новый массив строк с длиной меньше или равной 3 символам:
+   "new" "n_M" "12"
+   ```
+
+
+5. В проекте присутствует [12 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
 
 [К началу](#TitleHead)
